@@ -6,7 +6,7 @@ Repository of projects created within the 'Data Science Specialist' course at Ya
 
 - Course link: https://praktikum.yandex.ru/data-scientist/
 
-### Содержание: / Content:
+### Content:
 
   - [Research on borrower reliability / Data preprocessing - *Project_01*](01_research_on_borrower_reliability.ipynb)
   - [Exploration of real estate listings / Exploratory data analysis - *Project_02*](02_exploration_of_real_estate_listings.ipynb)
@@ -22,9 +22,9 @@ Repository of projects created within the 'Data Science Specialist' course at Ya
   - [Машинное обучение для текстов / Machine learning for texts  - *Project_12*](12_nlp_toxic_texts)
   - [**Выпускной проект / Final project**  - *Project_final*](13_graduate_project_)
 
-## Проекты
+## Projects:
 
-|№| Название | Общая информация | Стек технологий |
+|№| Names | Intro | Steck |
 |:---|:-------------------|:----------------------------------------------------------|:-----------:|
 |1   |[Research on borrower reliability](01_research_on_borrower_reliability.ipynb)|Research on the reliability of borrowers for the bank's credit department with the aim of building a credit scoring model.| `pandas` `Python` `Data preprocessing`|
 |2   |[Exploration of real estate listings](02_exploration_of_real_estate_listings.ipynb)|The main task is to establish parameters that will allow the construction of an automated system capable of detecting anomalies and fraudulent activity|`matplotlib` `plotly` `pandas` `numpy` `math` `Data preprocessing`|
