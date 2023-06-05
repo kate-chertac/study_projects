@@ -9,7 +9,7 @@ Repository of projects created within the 'Data Science Specialist' course at Ya
 ### Содержание: / Content:
 
   - [Research on borrower reliability / Data preprocessing - *Project_01*](01_research_on_borrower_reliability)
-  - [Exploration of real estate listings / Exploratory data analysis - *Project_02*](02_exploration_of_real_estate_listings)
+  - [Exploration of real estate listings / Exploratory data analysis - *Project_02*](02_exploration_of_real_estate_listings.ipynb)
   - [Статистический анализ данных / Statistical analysis of data - *Project_03*](03_statistical_data_analysis)
   - [Сборный проект / Common project - *Project_04*](04_game_dev_analytics)
   - [Введение в машинное обучение / Introduction to machine learning  - *Project_05*](05_ml_intro_mobile_tariffs)
@@ -27,7 +27,7 @@ Repository of projects created within the 'Data Science Specialist' course at Ya
 |№| Название | Общая информация | Стек технологий |
 |:---|:-------------------|:----------------------------------------------------------|:-----------:|
 |1   |[Research on borrower reliability](01_research_on_borrower_reliability)|Research on the reliability of borrowers for the bank's credit department with the aim of building a credit scoring model.| `pandas` `Python` `Data preprocessing`|
-|2   |[Исследование объявлений о продаже квартир](02_real_estate_market)|На базе архива объявлений о продаже квартир в Санкт-Петербурге и соседних городах провести EDA. Цель - определить параметры, чтобы в дальнейшем научиться определять рыночную стоимость объектов недвижимости|`matplotlib` `plotly` `pandas` `numpy` `math`|
+|2   |[Исследование объявлений о продаже квартир](02_exploration_of_real_estate_listings.ipynb)|На базе архива объявлений о продаже квартир в Санкт-Петербурге и соседних городах провести EDA. Цель - определить параметры, чтобы в дальнейшем научиться определять рыночную стоимость объектов недвижимости|`matplotlib` `plotly` `pandas` `numpy` `math`|
 |3   |[Определение перспективного тарифа для телеком-компании](03_statistical_data_analysis)|Чтобы скорректировать рекламный бюджет нужно проанализировать, как клиенты пользуются сотовой связью, и сделать вывод, — какой из предлагаемых федеральным оператором тарифов приносит больше денег.|`scipy` `pandas` `numpy` `plotly` `math`|
 |4   |[Определение параметров коммерческой успешности компьютерных игр](04_game_dev_analytics)|Необходимо выявить определяющие успешность игры закономерности, чтобы сделать ставку на потенциально популярный продукт и спланировать рекламные кампании|`scipy` `matplotlib` `plotly` `pandas` `numpy` `math`|
 |5   |[Рекомендация тарифов существующим клиентам](05_ml_intro_mobile_tariffs)|Необходимо построить систему, способную проанализировать поведение клиентов, давно не меняющих тарифные планы, и предложить пользователям новый тариф, отвечающий их предпочтениям.|`sklearn` `pandas`|
