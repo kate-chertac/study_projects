@@ -1,4 +1,4 @@
-# study_projects Yandex.Praktikum Data Science
+# study_projects Yandex.Praktikum|TripleTen Israel| Data Science
 
 Repository of projects created within the 'Data Science Specialist' course at Yandex.Practicum.
 
