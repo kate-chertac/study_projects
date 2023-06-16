@@ -14,7 +14,7 @@ Repository of projects created within the 'Data Science Specialist' course at Ya
   - [Common project - *Project_04*](04_integrated_project_1.ipynb)
   - [Introduction to machine learning  - *Project_05*](05_ml_intro.ipynb)
   - [Supervised learning  - *Project_06*](06_supervised_learning.ipynb)
-  - [ Machine learning in business  - *Project_07*](007_ml_for_business_oil_bores.ipynb)
+  - [ Machine learning in business  - *Project_07*](07_ml_for_business_oil_bores.ipynb)
   - [Common project  - *Project_08*](08_gold_recovery.ipynb)
   - [ Linear algebra  - *Project_09*](09_linear_algebra.ipynb)
   - [Numerical analysis (gradient boosting)  - *Project_10*](10_cars_cost_determining.ipynb)
@@ -42,4 +42,4 @@ Repository of projects created within the 'Data Science Specialist' course at Ya
 
 ## Contacts
 
-- email: chertache@gmail.com | telegram: @chertac | LinkedIn: https://www.linkedin.com/in/katerina-aingorn-4631a126b/
+WhatsApp: +972504895602 | email: chertache@gmail.com | telegram: @chertac | LinkedIn: https://www.linkedin.com/in/katerina-aingorn-4631a126b/
