@@ -8,19 +8,19 @@ Repository of projects created within the 'Data Science Specialist' course at Ya
 
 ### Content:
 
-  - [Research on borrower reliability / Data preprocessing - *Project_01*](01_data_preprocessing)
-  - [Exploration of real estate listings / Exploratory data analysis - *Project_02*](02_exploratory_data_analysis)
-  - [Статистический анализ данных / Statistical analysis of data - *Project_03*](03_statistical_data_analysis)
-  - [Сборный проект / Common project - *Project_04*](04_integrated_project_1)
-  - [Введение в машинное обучение / Introduction to machine learning  - *Project_05*](05_ml_intro)
-  - [Обучение с учителем / Supervised learning  - *Project_06*](06_supervised_learning)
-  - [Машинное обучение в бизнесе / Machine learning in business  - *Project_07*](007_ml_for_business_oil_bores)
-  - [Сборный проект / Common project  - *Project_08*](08_gold_recovery)
-  - [Линейная алгебра / Linear algebra  - *Project_09*](09_linear_algebra)
-  - [Численные методы (градиентный бустинг) / Numerical analysis (gradient boosting)  - *Project_10*](10_cars_cost_determining)
-  - [Временные ряды / Time series  - *Project_11*](11_time_series_taxi_orders)
-  - [NLP / Machine learning for texts  - *Project_12*](12_nlp_ML_for_texts)
-  - [**Graduate project / Final project**  - *Project_final*](13_graduate_project)
+  - [Data preprocessing - *Project_01*](01_data_preprocessing.ipynb)
+  - [Exploratory data analysis - *Project_02*](02_exploratory_data_analysis.ipynb)
+  - [Statistical analysis of data - *Project_03*](03_statistical_data_analysis.ipynb)
+  - [Common project - *Project_04*](04_integrated_project_1.ipynb)
+  - [Introduction to machine learning  - *Project_05*](05_ml_intro.ipynb)
+  - [Supervised learning  - *Project_06*](06_supervised_learning.ipynb)
+  - [ Machine learning in business  - *Project_07*](007_ml_for_business_oil_bores.ipynb)
+  - [Common project  - *Project_08*](08_gold_recovery.ipynb)
+  - [ Linear algebra  - *Project_09*](09_linear_algebra.ipynb)
+  - [Numerical analysis (gradient boosting)  - *Project_10*](10_cars_cost_determining.ipynb)
+  - [Time series  - *Project_11*](11_time_series_taxi_orders.ipynb)
+  - [NLP / Machine learning for texts  - *Project_12*](12_nlp_ML_for_texts.ipynb)
+  - [**Final project**  - *Project_final*](13_graduate_project.ipynb)
 
 ## Projects:
 
