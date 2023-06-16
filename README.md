@@ -20,7 +20,7 @@ Repository of projects created within the 'Data Science Specialist' course at Ya
   - [Numerical analysis (gradient boosting)  - *Project_10*](10_cars_cost_determining.ipynb)
   - [Time series  - *Project_11*](11_time_series_taxi_orders.ipynb)
   - [NLP / Machine learning for texts  - *Project_12*](12_nlp_ML_for_texts.ipynb)
-  - [**Final project**  - *Project_final*](13_graduate_project.ipynb)
+  - [**Final project**  - *Project_final*](13_graduation_project.ipynb)
 
 ## Projects:
 
@@ -38,7 +38,7 @@ Repository of projects created within the 'Data Science Specialist' course at Ya
 |10  |[Determining the cost of cars](10_cars_cost_determining.ipynb)|It is necessary to build a model to determine the cost of the car, taking into account the limitations indicated by the customer|`catboost` `lightgbm` `sklearn` `pandas` `numpy` `matplotlib` `plotly` `math` `time`|
 |11  |[Time series Forecast of the number of taxi orders for the next hour](11_time_series_taxi_orders.ipynb)|To attract more drivers during the peak period, you need to predict the number of taxi orders for the next hour.|`TimeSeriesSplit` `catboost` `lightgbm` `statsmodels` `sklearn` `pandas` `numpy` `matplotlib` `plotly` `math` `time`|
 |12  |[NLP Toxic comments](12_nlp_ML_for_texts.ipynb)|The store needs a tool that will look for toxic comments and submit them for moderation. To do this, it is necessary to train the model to classify comments into positive and negative ones.|`spacy` `SVC` `pymystem3` `re` `sklearn` `pandas` `numpy` `matplotlib` `plotly` `math`|
-|13  |[Graduate project](13_graduate_project.ipynb)|In order to optimize production costs, the metallurgical plant Tak Temper Steel LLC decided to reduce electricity consumption at the stage of steel processing. The project has built a model that predicts the steel temperature.|`catboost` `sklearn` `seaborn` `matplotlib` `plotly` `pandas` `numpy` `math`|
+|13  |[Graduate project](13_graduation_project.ipynb)|In order to optimize production costs, the metallurgical plant Tak Temper Steel LLC decided to reduce electricity consumption at the stage of steel processing. The project has built a model that predicts the steel temperature.|`catboost` `sklearn` `seaborn` `matplotlib` `plotly` `pandas` `numpy` `math`|
 
 ## Contacts
 
